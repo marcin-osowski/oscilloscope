@@ -1,0 +1,6 @@
+An FPGA-based binary oscilloscope for 1280x1024 @ 60hz VGA monitor.
+
+Target device: Basys2, Spartan3E 100K
+
+In order to upload programming file to Basys2 device:
+  o make up

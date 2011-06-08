@@ -1,0 +1,13 @@
+# Output products list for <trace_memory>
+_xmsgs/pn_parser.xmsgs
+blk_mem_gen_ds512.pdf
+blk_mem_gen_readme.txt
+trace_memory.asy
+trace_memory.gise
+trace_memory.ngc
+trace_memory.vhd
+trace_memory.vho
+trace_memory.xco
+trace_memory.xise
+trace_memory_flist.txt
+trace_memory_xmdf.tcl
